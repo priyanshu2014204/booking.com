@@ -1,0 +1,12 @@
+.featurecontainer{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+/* .hometitle{
+    position: absolute;
+    left: 10px;
+} */
