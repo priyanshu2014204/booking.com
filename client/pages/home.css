@@ -5,6 +5,9 @@
     align-items: center;
     gap: 30px;
 }
+body{
+    overflow-x: hidden;
+}
 
 /* .hometitle{
     position: absolute;
